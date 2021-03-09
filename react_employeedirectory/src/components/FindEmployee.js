@@ -4,14 +4,14 @@ function FindEmployee(props) {
   return (
     <form>
       <div className="form-group">
-        <label htmlFor="search">Search Employee:</label>
+        <label style={{fontSize:"25px", marginLeft:"20px"}} htmlFor="search">Search Employee:</label>
         <input
           onChange={e => props.handleInputChange(e)}
         //   value={props.value}
           name="search"
           type="text"
           className="form-control"
-          placeholder="Search Employees"
+          placeholder="Search..."
           id="search"
         />
       </div>
