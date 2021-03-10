@@ -10,7 +10,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ### Deployment:
 
-<strong>Live Link:</strong> (hhttps://taylorceneviva.github.io/react_EmployeeDirectory/)
+<strong>Live Link:</strong> (https://taylorceneviva.github.io/react_EmployeeDirectory/)
 
 ### Technologies Used:
 
