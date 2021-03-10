@@ -4,7 +4,7 @@ import React from "react";
 function EmployeeTable(props) {
   console.log(props);
   return (
-    <table class="col-12" style={{ margin: "auto", fontSize: "18px", textAlign: "center"}}>
+    <table className="col-12" style={{ margin: "auto", fontSize: "18px", textAlign: "center"}}>
       <thead>
         <tr>
           <th>Image</th>
